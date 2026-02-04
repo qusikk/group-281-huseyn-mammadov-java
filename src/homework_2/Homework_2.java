@@ -10,4 +10,17 @@ public class Homework_2 {
 
         int result = myStudent.sum(5, 6);
         System.out.println(result);
+
+
+        int a = 10;
+        System.out.println("Before calling changeValue, a = " + a);
+        myStudent.changeValue(a);                    
+
+        int p = 5; 
+
+        inp iskempanpuxumpumampa = 7;
+        System.out.println("Before calling swap, p = " + p + ", q = " + iskempanpuxumpumampa);
     }}
+
+
+   
