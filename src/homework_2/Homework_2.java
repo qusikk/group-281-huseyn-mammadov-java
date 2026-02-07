@@ -18,8 +18,7 @@ public class Homework_2 {
 
         int p = 5; 
 
-        inp iskempanpuxumpumampa = 7;
-        System.out.println("Before calling swap, p = " + p + ", q = " + iskempanpuxumpumampa);
+       
     }}
 
 
