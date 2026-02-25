@@ -6,6 +6,7 @@ public class Kopilka {
     }
 
     public static void main(String[] args) {
+    	
 
         int vsegoMonet = 0;
         int vsegoSumma = 0;
@@ -17,7 +18,7 @@ public class Kopilka {
             System.out.println("Moneta: " + moneta);
 
             vsegoMonet++;
-            vsegoSumma += moneta;
+            vseg     oSumma += moneta;
 
             if (moneta == 10) {
                 System.out.println("Bolshaya moneta!");

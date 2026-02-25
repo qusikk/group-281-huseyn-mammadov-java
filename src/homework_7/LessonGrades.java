@@ -18,7 +18,7 @@ public class LessonGrades {
             System.out.println("Lesson " + lesson + "osenka" + grade);
 
             totalGrades += grade;
-
+ 
             if (grade == 5) {
                 numbersOfFives++;
             }

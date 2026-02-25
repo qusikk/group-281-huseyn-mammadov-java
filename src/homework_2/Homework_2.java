@@ -17,7 +17,7 @@ public class Homework_2 {
         myStudent.changeValue(a);                    
 
         int p = 5; 
-
+    
        
     }}
 

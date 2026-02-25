@@ -1,3 +1,5 @@
+package homework_7;
+
 public class PotolokPol {
 
     public static void main(String[] args) {
@@ -24,7 +26,7 @@ public class PotolokPol {
                 countBolshe7++;
             }
 
-            System.out.println();
+           
         }
 
         System.out.println("Kolichestvo chisel bolshe 7: " + countBolshe7);
